@@ -1,0 +1,8 @@
+DEPENDENCIES (LIBRARIES) OF THE PROJECT:
+pandas
+numpy
+neattext
+sklearn  (scikit learn for machine learning)
+cosine_similarity
+pickle   (for exporting the model)
+streamlit (for developing the web appication front end (user interface))
